@@ -1190,6 +1190,16 @@ section {
 	line-height: 1;
 	opacity: .85;
 }
+
+.intro-sub-title2 {
+	background-color: #FFE800;
+	margin: 0;
+	font-size: 24px;
+	font-weight: 400;
+	color: #000;
+	opacity: .85;
+	margin-top:25px;
+}
 @media (max-width : 768px) {
 	.intro-sub-title {
 		font-size: 17px;
